@@ -1,6 +1,7 @@
 # PMAPS2020_IGEP
 Code for Janke &amp; Steinke (2020): "Probabilistic multivariate electricity price forecasting using implicit generative ensemble post-processing"
-https://arxiv.org/abs/2005.13417
+Presented @ PMAPS Conference 2020.
+Paper available from: https://arxiv.org/abs/2005.13417
 
 IGEP models can be used to generate samples from an implicit multivariate predictive distribution given the predictions of an 
 ensemble of point forecasting models.
